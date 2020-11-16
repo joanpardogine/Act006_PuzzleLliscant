@@ -2,6 +2,13 @@ body{
 	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
 	font-size: 10pt;
 }
+table {
+  height: 180;
+}
+
+#cos{
+  box-align: center;
+}
 
 #segundos {
 	display:none;
@@ -24,7 +31,7 @@ table, td {
 }
 
 table {
-	background-image: url('ginebro.png');
+	background-image: url('../image/ginebro.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 }
@@ -39,4 +46,39 @@ td {
 	top: 100px;
 	width: 700px;
 	height: 600px;
+}
+
+
+#c00 {
+  background-color:RGBA(235,202,247, .65);
+}
+
+#c01 {
+  background-color:RGBA(224,228,253, .65);
+}
+
+#c02{
+  background-color:RGBA(222,217,213, .65);
+} 
+
+#c10{
+  background-color:RGBA(231,202,227, .65);
+}
+
+#c11 {
+  background-color:#FFF;
+}
+#c12 {
+  background-color:RGBA(214,237,216, .65);
+}
+
+#c20 { 
+  background-color:RGBA(228,220,250, .65);
+}
+
+#c21 { 
+  background-color:RGBA(248,233,246, .65);
+}
+#c22 { 
+  background-color:RGBA(229,226,249, .65);
 }
