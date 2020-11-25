@@ -48,6 +48,9 @@ td {
 	height: 600px;
 }
 
+.celaBuida{
+  background-color:#ffffff !important;
+}
 
 #c00 {
   background-color:RGBA(235,202,247, .65);
@@ -62,12 +65,13 @@ td {
 } 
 
 #c10{
-  background-color:RGBA(231,202,227, .65);
+  background-color:RGBA(229,202,213, .65);
 }
 
 #c11 {
-  background-color:#FFF;
+  background-color:RGBA(222,217,213, .65);
 }
+
 #c12 {
   background-color:RGBA(214,237,216, .65);
 }
